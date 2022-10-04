@@ -1,3 +1,4 @@
 Git is free software.
 Git yyds.
-oh,yeah
+oh,yeah.
+I add a remote repo.
